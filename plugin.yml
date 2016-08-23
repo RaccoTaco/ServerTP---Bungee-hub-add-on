@@ -1,0 +1,5 @@
+name: ServerTP
+main: raccotaco.server.ServerTP
+version: 0.1
+author: [RaccoTaco]
+description: Teleport to spawn on login
